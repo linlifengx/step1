@@ -1,0 +1,12 @@
+#folder
+/temp/
+
+#file
+~*
+*.tmp
+*.out
+sprc
+test.sp
+parser.cpp
+parser.hpp
+token.cpp
